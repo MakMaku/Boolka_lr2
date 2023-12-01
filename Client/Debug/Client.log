@@ -1,0 +1,4 @@
+﻿  TINS.cpp
+C:\Users\snake\OneDrive\Рабочий стол\лр\БОЛА\BOLA_2\Client\TINS.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\snake\OneDrive\Рабочий стол\лр\БОЛА\BOLA_2\Client\TINS.cpp(335,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Client.vcxproj -> C:\Users\snake\OneDrive\Рабочий стол\лр\БОЛА\BOLA_2\Client\Debug\Client.exe

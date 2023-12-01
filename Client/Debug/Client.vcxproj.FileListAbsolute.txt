@@ -1,0 +1,3 @@
+C:\Users\snake\OneDrive\Рабочий стол\лр\БОЛА\BOLA_1\Client\Debug\Client.exe
+C:\Users\snake\Documents\Лабы\БОЛА\BOLA_2\Client\Debug\Client.exe
+C:\Users\snake\OneDrive\Рабочий стол\лр\БОЛА\BOLA_2\Client\Debug\Client.exe
